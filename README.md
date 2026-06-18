@@ -15,19 +15,13 @@ I love turning ideas into code and solving complex problems. As an undergraduate
 
 ---
 
-### 🛠️ Tech Stack & Tools (Customize these!):
+### 🛠️ Tech Stack & Tools (On going learning):
 
 *   **Programming Languages:** C, C++, Java, Python, JavaScript *(Keep the ones you know)*
 *   **Web Development:** HTML5, CSS3, Bootstrap/Tailwind, React.js / Node.js
 *   **Databases:** MySQL, MongoDB
 *   **Tools & Platforms:** Git, GitHub, VS Code
 
-Skills: <b>
-✔️ C/JS / HTML / CSS <b>
-✔️ WordPress <b>
-✔️ ELEMENTOR <b>
-✔️ E-COMMERCE <b>
-✔️ Figma<b>
  
 - 🌱 I’m currently learning Computer Science Engineering(CSE) 
 - 👯 I’m looking to collaborate on LinkedIn 
